@@ -1,0 +1,14 @@
+body{
+  background: black url() 0 0 no-repeat;
+}
+
+h1{
+  color: wheat;
+  font-family: cursive;
+  text-align: center;
+}
+
+hr{
+  color: white;
+  margin: 40 60 40 60;
+}
